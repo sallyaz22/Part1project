@@ -1,0 +1,15 @@
+
+.nav-link.active{
+border-bottom: 2px solid teal;
+}
+.nav-item{
+    padding-left: 20px;
+}
+.btn-outline-success{
+margin: 10px;
+}
+
+.link{
+    text-decoration: none;
+    text-transform: none;
+}
